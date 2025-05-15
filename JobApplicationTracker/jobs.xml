@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jobs>
+    <job>
+        <company>Google</company>
+        <title>Software Engineer</title>
+        <date>2025-04-12</date>
+        <status>Applied</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>Amazon</company>
+        <title>Backend Developer</title>
+        <date>2025-03-29</date>
+        <status>Interview</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>Microsoft</company>
+        <title>Cloud Engineer</title>
+        <date>2025-05-01</date>
+        <status>Applied</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>Apple</company>
+        <title>iOS Developer</title>
+        <date>2025-04-22</date>
+        <status>Offer</status>
+        <isRemote>false</isRemote>
+    </job>
+    <job>
+        <company>Facebook</company>
+        <title>Frontend Engineer</title>
+        <date>2025-04-05</date>
+        <status>Rejected</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>Netflix</company>
+        <title>DevOps Engineer</title>
+        <date>2025-03-15</date>
+        <status>Interview</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>Spotify</company>
+        <title>Data Analyst</title>
+        <date>2025-05-10</date>
+        <status>Applied</status>
+        <isRemote>false</isRemote>
+    </job>
+    <job>
+        <company>Tesla</company>
+        <title>Embedded Developer</title>
+        <date>2025-04-01</date>
+        <status>Rejected</status>
+        <isRemote>false</isRemote>
+    </job>
+    <job>
+        <company>Twitter</company>
+        <title>Security Engineer</title>
+        <date>2025-03-28</date>
+        <status>Offer</status>
+        <isRemote>true</isRemote>
+    </job>
+    <job>
+        <company>LinkedIn</company>
+        <title>Machine Learning Engineer</title>
+        <date>2025-04-17</date>
+        <status>Interview</status>
+        <isRemote>false</isRemote>
+    </job>
+</jobs>
